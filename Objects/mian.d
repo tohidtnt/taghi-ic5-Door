@@ -1,0 +1,17 @@
+.\objects\mian.o: mian.cpp
+.\objects\mian.o: process.h
+.\objects\mian.o: door.h
+.\objects\mian.o: sensor.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h
+.\objects\mian.o: C:\Keil_v525\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\mpu_armv7.h
+.\objects\mian.o: C:\Keil_v525\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h
+.\objects\mian.o: button.h
+.\objects\mian.o: ic5.h
+.\objects\mian.o: modbus.h
+.\objects\mian.o: uart2.h
+.\objects\mian.o: sleep.h

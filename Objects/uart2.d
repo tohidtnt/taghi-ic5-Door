@@ -1,0 +1,12 @@
+.\objects\uart2.o: uart2.c
+.\objects\uart2.o: uart2.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\lpc17xx.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h
+.\objects\uart2.o: C:\Keil_v525\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\mpu_armv7.h
+.\objects\uart2.o: C:\Keil_v525\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h
+.\objects\uart2.o: sleep.h
+.\objects\uart2.o: C:\Keil_v525\ARM\ARMCC\Bin\..\include\stdbool.h

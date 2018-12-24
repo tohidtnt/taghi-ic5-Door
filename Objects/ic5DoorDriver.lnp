@@ -1,0 +1,18 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\process.o"
+".\objects\door.o"
+".\objects\sensor.o"
+".\objects\button.o"
+".\objects\remote.o"
+".\objects\ic5.o"
+".\objects\modbus.o"
+".\objects\uart2.o"
+".\objects\sleep.o"
+".\objects\couple.o"
+".\objects\startup_lpc17xx.o"
+".\objects\system_lpc17xx.o"
+--strict --scatter ".\Objects\ic5DoorDriver.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\ic5DoorDriver.map" -o .\Objects\ic5DoorDriver.axf
